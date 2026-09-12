@@ -26,6 +26,26 @@ The system handles complete user authentication lifecycles, matchmaking lobbies 
 
 ---
 
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="40" height="40"/>
+</p>
+
+| Layer | Technologies |
+| :--- | :--- |
+| **Framework & Language** | Flutter (Cross-Platform), Dart |
+| **Architecture** | Feature-Driven Clean Architecture (Presentation, Logic, Data/Repo, Services) |
+| **State Management** | `flutter_bloc` / `cubit` with immutable states (`Equatable`) |
+| **Backend & Real-Time Sync** | Firebase Cloud Firestore (Streams, Transactions) |
+| **Authentication Engine** | Firebase Auth (Email & Password, Session Streams) |
+
+---
+
+
 ## 🏗️ Architecture & Project Structure
 
 The project strictly separates concerns into independent domain, data, and presentation layers:
@@ -48,25 +68,6 @@ The project strictly separates concerns into independent domain, data, and prese
 * 🛡️ **Atomic Stats via Transactions:** Zero race conditions during score updates (Wins, Losses, Win Rates) using Firestore Transactions.
 * 🚪 **Room Matchmaking:** Create public or password-protected rooms with dynamic player slots and auto-cleanup.
 * 📊 **Live Player Stats:** Auto-computed win percentages (`formatWinRate`) and profile history tracking.
-
----
-
-## 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="40" height="40"/>
-</p>
-
-| Layer | Technologies |
-| :--- | :--- |
-| **Framework & Language** | Flutter (Cross-Platform), Dart |
-| **Architecture** | Feature-Driven Clean Architecture (Presentation, Logic, Data/Repo, Services) |
-| **State Management** | `flutter_bloc` / `cubit` with immutable states (`Equatable`) |
-| **Backend & Real-Time Sync** | Firebase Cloud Firestore (Streams, Transactions) |
-| **Authentication Engine** | Firebase Auth (Email & Password, Session Streams) |
 
 ---
 
