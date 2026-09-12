@@ -49,12 +49,7 @@ The system handles complete user authentication lifecycles, matchmaking lobbies 
 
 | Authentication | Rooms Lobby | Live Match | Player Profile |
 | :---: | :---: | :---: | :---: |
-| <img width="240" alt="Login & Register Screen" src=" <img width="236" height="512" alt="1000672710" src="https://github.com/user-attachments/assets/bf81f95a-b564-4cef-ae3b-ce51a1bc5132" />
-" /> | <img width="240" alt="Lobby & Matchmaking" src=" <img width="475" height="745" alt="Screenshot (127)" src="https://github.com/user-attachments/assets/3d917d0e-7799-44d7-b5a6-5d0165f1c982" />
-" /> | <img width="240" alt="Real-time Game Board" src=" <img width="1048" height="748" alt="Screenshot (131)" src="https://github.com/user-attachments/assets/c0dd144b-880c-4265-a436-a89901bb3365" />
-" /> | <img width="240" alt="Profile & Stats" src="<img width="1038" height="763" alt="Screenshot (132)" src="https://github.com/user-attachments/assets/bde871dc-8fa5-4d88-8c6f-500596209a5d" />
-" /> |
-
+| <img width="240" alt="Login & Register Screen" src="https://github.com/user-attachments/assets/bf81f95a-b564-4cef-ae3b-ce51a1bc5132" /> | <img width="240" alt="Lobby & Matchmaking" src="https://github.com/user-attachments/assets/3d917d0e-7799-44d7-b5a6-5d0165f1c982" /> | <img width="240" alt="Real-time Game Board" src="https://github.com/user-attachments/assets/c0dd144b-880c-4265-a436-a89901bb3365" /> | <img width="240" alt="Profile & Stats" src="https://github.com/user-attachments/assets/bde871dc-8fa5-4d88-8c6f-500596209a5d" /> |
 > **Note:** لاستبدال الصور بصور حقيقية: اسحب صور الشاشات وضعها مباشرة (Drag & Drop) في نافذة تعديل الـ README على GitHub أو ارفعها في فولدر `assets/screenshots` واستبدل الروابط.
 ## 🏗️ Architecture & Project Structure
 
