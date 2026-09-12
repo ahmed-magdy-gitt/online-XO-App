@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D8FF&center=true&vCenter=true&width=620&lines=Online+XO+%E2%80%94+Real-Time+Multiplayer;Flutter+%2B+BLoC%2FCubit+%2B+Clean+Architecture;Firebase+Firestore+%2B+Auth+%2B+Transactions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D8FF&center=false&vCenter=true&width=680&lines=Online+XO+%E2%80%94+Real-Time+Multiplayer;Flutter+%2B+BLoC%2FCubit+%2B+Clean+Architecture;Firebase+Firestore+%2B+Auth+%2B+Transactions" alt="Typing SVG" />
   </a>
 </p>
 
